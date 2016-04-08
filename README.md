@@ -15,13 +15,13 @@ I read the bandict level 1 password from the file 'readme' on the home directory
 
 ![bandit1](https://cloud.githubusercontent.com/assets/18231116/14390985/35f56d1e-fdd7-11e5-89c1-fa47646dab72.png)
 
-Bandit 2
-
-
+Then you have to access the bandict level 1 using the passsword found on the previous step as follows.
 
 ![bandit2](https://cloud.githubusercontent.com/assets/18231116/14391252/901ac6d0-fdd8-11e5-8e8c-de64c96a5819.png)
 
-(https://cloud.githubusercontent.com/assets/18231116/14382184/860f8bd2-fda9-11e5-8919-90b445a70cdb.jpg)
+Bandict 2
+
+![bandit2](https://cloud.githubusercontent.com/assets/18231116/14382184/860f8bd2-fda9-11e5-8919-90b445a70cdb.jpg)
 
 Bandit 3
 
