@@ -17,7 +17,11 @@ I read the bandict level 1 password from the file 'readme' on the home directory
 
 Bandit 2
 
-![bandit2](https://cloud.githubusercontent.com/assets/18231116/14382184/860f8bd2-fda9-11e5-8919-90b445a70cdb.jpg)
+
+
+![bandit2](https://cloud.githubusercontent.com/assets/18231116/14391252/901ac6d0-fdd8-11e5-8e8c-de64c96a5819.png)
+
+(https://cloud.githubusercontent.com/assets/18231116/14382184/860f8bd2-fda9-11e5-8919-90b445a70cdb.jpg)
 
 Bandit 3
 
