@@ -1,7 +1,9 @@
 # Homework1
 Bandit - Overthewire: Wargame
+This is a war game aimed at the starters.This has levels.Game is to be started at level 0 which is named as 'bandict0'.This game mainly consists of linux commands.Beating up an each level ends up with the information needed for entering the next level.Each bandict level contains the password to access the next bandict level.Hints and commands provided OverTheWire website was used as a guide to find the password for the next level.
 
 Bandit 0
+I logeed on to the machine via ssh using the password "bandit0".
 
 ![bandit0](https://cloud.githubusercontent.com/assets/18231116/14382182/860cd84c-fda9-11e5-9cdc-a13454f2a3eb.jpg)
 
