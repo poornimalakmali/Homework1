@@ -1,8 +1,6 @@
 # Homework1
 Bandit - Overthewire: Wargame
 
-Bandit is a 
-
 Bandit 0
 
 ![bandit0](https://cloud.githubusercontent.com/assets/18231116/14382182/860cd84c-fda9-11e5-9cdc-a13454f2a3eb.jpg)
