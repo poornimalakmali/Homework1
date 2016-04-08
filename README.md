@@ -7,7 +7,7 @@ Bandit 0
 
 I logeed on to the machine via ssh using the password "bandit0".
 
-![bandit0](https://cloud.githubusercontent.com/assets/18231116/14382182/860cd84c-fda9-11e5-9cdc-a13454f2a3eb.jpg)
+![bandit0](https://cloud.githubusercontent.com/assets/18231116/14388685/dbb2bcbc-fdcc-11e5-891b-5a6113552844.png)
 
 Bandit 1
 
