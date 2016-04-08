@@ -11,7 +11,9 @@ I logeed on to the machine via ssh using the password "bandit0".
 
 Bandit 1
 
-![bandit1](https://cloud.githubusercontent.com/assets/18231116/14382181/860c8f90-fda9-11e5-8c2d-f41ee268879b.jpg)
+I read the bandict level 1 password from the file 'readme' on the home directory of level 0. The password in the file is for the bandit1 user which is the user for the level 1.
+
+![bandit1](https://cloud.githubusercontent.com/assets/18231116/14390985/35f56d1e-fdd7-11e5-89c1-fa47646dab72.png)
 
 Bandit 2
 
